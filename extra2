@@ -1,4 +1,4 @@
---wiredd
+--lainn
 
 if getgenv().Aiming then return getgenv().Aiming end
 
